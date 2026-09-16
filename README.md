@@ -12,9 +12,9 @@ A few projects are pinned below ↓
 
 ### Currently
 
-- 💻 Building web applications and experimenting with new ideas
-- 🎨 Studying Graphic Design alongside my background in Information Systems
-- 🧩 Exploring frontend, UI/UX, and product development
+-  Building web applications and experimenting with new ideas
+-  Studying Graphic Design alongside my background in Information Systems
+-  Exploring frontend, UI/UX, and product development
 
 ### Fun facts
 
