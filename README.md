@@ -1,8 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&width=435&lines=Oi%2C+seja+bem+vindo(a)++)](https://git.io/typing-svg)<img src="[https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif](https://media.tenor.com/A7eequnhcGwAAAAM/hand.gif)](https://media.tenor.com/A7eequnhcGwAAAAM/hand.gif)" width="30px">
-<img style="margin-top: 40px;" align="right" width="400px" src="[[https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif(https://i.pinimg.com/originals/b1/ce/82/b1ce82897b9beba80e76d5e1fd760c75.gif)">
-### Me chamo Yuri e curso Sistemas de Informação na FURG em Rio Grande-RS.! 
-#
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,)](https://skillicons.dev)
+# Hey there 👋
 
+I'm **Yuri**, a software developer from Brazil.
 
+I build web applications with a focus on **frontend, UI/UX, and the details that make software feel good to use**.
 
+My main tools are React, Next.js, TypeScript, Python, PostgreSQL, and Figma.
+
+I enjoy turning ideas into real projects — from full-stack applications and dashboards to smaller experiments inspired by the things I'm interested in.
+
+A few projects are pinned below ↓
+
+### Currently
+
+- 💻 Building web applications and experimenting with new ideas
+- 🎨 Studying Graphic Design alongside my background in Information Systems
+- 🧩 Exploring frontend, UI/UX, and product development
+
+### Fun facts
+
+- Music often finds its way into my projects
+- I enjoy design almost as much as programming
+- I like turning random ideas into actual projects
+
+### Find me elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/yuri-theodoro/)
+·
+[Portfolio](...)
