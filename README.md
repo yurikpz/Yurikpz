@@ -4,7 +4,7 @@ I'm **Yuri**, a software developer from Brazil.
 
 I build web applications with a focus on **frontend, UI/UX, and the details that make software feel good to use**.
 
-My main tools are React, Next.js, TypeScript, Python, PostgreSQL, and Figma.
+My main tools are React, JavaScript, Python, PostgreSQL, and Figma.
 
 I enjoy turning ideas into real projects — from full-stack applications and dashboards to smaller experiments inspired by the things I'm interested in.
 
