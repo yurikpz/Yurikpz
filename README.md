@@ -14,7 +14,7 @@ A few projects are pinned below ↓
 
 -  Building web applications and experimenting with new ideas
 -  Studying Graphic Design alongside my background in Information Systems
--  Exploring frontend, UI/UX, and product development
+-  Exploring frontend, UI/UX, and backend
 
 ### Fun facts
 
